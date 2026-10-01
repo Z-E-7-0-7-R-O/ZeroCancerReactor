@@ -79,3 +79,6 @@ The following logs include real-time biological telemetry dashboards, subsystem 
 
 ### Photo #25 from ZeroCancerReactor
 <img src="https://raw.githubusercontent.com/Z-E-7-0-7-R-O/ZeroCancerReactor/main/assets/Photo%20%2325%20from%20ZeroCancerReactor.png" width="900">
+
+### Photo #26 from ZeroCancerReactor
+<img src="https://raw.githubusercontent.com/Z-E-7-0-7-R-O/ZeroCancerReactor/main/assets/Photo%20%2326%20from%20ZeroCancerReactor.png" width="900">
