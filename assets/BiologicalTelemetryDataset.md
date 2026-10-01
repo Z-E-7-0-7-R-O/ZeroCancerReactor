@@ -3,7 +3,7 @@
 <div align="center">
   <i>A reference document detailing the telemetry outputs and biological variable mappings for the simulated Tumor Microenvironment (TME).</i>
   <br><br>
-  <b>Dataset Origin:</b> Zero Cancer Reactor<br>
+  <b>Dataset Origin:</b> ZeroCancerReactor<br>
   <b>Operator:</b> Zero-AI-Native (Age 15)<br>
   <b>Status:</b> Dataset Generated / 72,000+ Epochs Logged
 </div>
