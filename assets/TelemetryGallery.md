@@ -1,4 +1,4 @@
-# Zero Cancer Reactor: Operational Telemetry & Performance Gallery
+# ZeroCancerReactor: Operational Telemetry & Performance Gallery
 
 This archive contains the visual documentation of the **Zero Cancer Reactor** during live execution. 
 The following logs include real-time biological telemetry dashboards, subsystem monitoring, immune-checkpoint tracking, and hardware utilization metrics (RTX 3060 12GB VRAM / CPU efficiency), demonstrating system stability at 60.0 FPS.
